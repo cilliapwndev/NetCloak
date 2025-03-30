@@ -78,7 +78,7 @@ gem install curses
 
 ## Demo
 
-![NetCloak Demo](https://imgur.com/a/kGLC2qk)
+<img src="https://i.imgur.com/UvHNBof.gif"/>
 
 ## Roadmap
 
