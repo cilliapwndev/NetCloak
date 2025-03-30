@@ -55,7 +55,7 @@ sudo zypper install openvpn
 
 ```sh
 # Clone the repository
-git clone https://github.com/cilliapwndev/netcloak.git
+git clone https://github.com/cilliapwndev/NetCloak.git
 cd netcloak
 
 # Install dependencies
