@@ -119,5 +119,3 @@ You should have received a copy of the GNU General Public License along with thi
 
 **Stay anonymous, stay secure with NetCloak.**
 ```
-
-Let me know if you want a version with badges (e.g. gem version, license, etc.) or support for other VPN protocols!
