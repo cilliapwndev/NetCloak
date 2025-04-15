@@ -1,12 +1,12 @@
 # netcloak.gemspec
 Gem::Specification.new do |spec|
     spec.name          = "netcloak"
-    spec.version       = "1.0.1"
+    spec.version       = "1.0.2"
     spec.authors       = ["Mark Angelo P. Santonil"]
     spec.email         = ["cillia2203@gmail.com"]
   
     spec.summary       = "A CLI tool to monitor and manage OpenVPN connections."
-    spec.description   = "NetCloak provides a curses-based interface to manage OpenVPN configurations, monitor latency, and control connections."
+    spec.description   = "NetCloak provides a curses-based interface to manage VPN configurations, monitor latency, and control connections."
     spec.homepage      = "https://github.com/cilliapwndev/NetCloak"
     spec.license       = "GNU v.3"
   
