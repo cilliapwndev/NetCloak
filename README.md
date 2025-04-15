@@ -97,7 +97,6 @@ gem install netcloak
 - Implement configuration profiles for quick VPN switching
 - Enhance security features with automatic kill-switch
 - Extend support for proxy chains
-- Proxy Support: Proxy chains functionality will be added in future updates.
 
 ---
 
