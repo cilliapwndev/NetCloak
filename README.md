@@ -22,7 +22,6 @@ Now available as a Ruby gem, NetCloak can be easily installed and run directly f
   - **[Q]** Quit
 - **Latency Visualization**: Displays latency trends in a bar graph format for quick insights.
 - **Minimal Dependencies**: Runs using Curses and OpenVPN, keeping the setup lightweight.
-- **Proxy Support (Coming Soon)**: Proxy chains functionality will be added in future updates.
 
 ---
 
@@ -98,6 +97,7 @@ gem install netcloak
 - Implement configuration profiles for quick VPN switching
 - Enhance security features with automatic kill-switch
 - Extend support for proxy chains
+- Proxy Support: Proxy chains functionality will be added in future updates.
 
 ---
 
