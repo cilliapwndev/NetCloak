@@ -1,7 +1,12 @@
 require 'curses'
 require 'open3'
 
-class VPNMonitor
+require_relative 'netcloak/version'
+
+module NetCloak
+  class Error < StandardError; end
+
+class NetCloak
   COLORS = {
     primary: 1,
     success: 2,
@@ -478,4 +483,6 @@ class VPNMonitor
   end
 end
 
-VPNMonitor.new.run
+end
+
+NetCloak::NetCloak.new.run

@@ -1,0 +1,12 @@
+#!/usr/bin/env ruby
+
+# Add the lib directory to the load path
+require_relative '../lib/netcloak'
+
+begin
+  NetCloak.new.run
+rescue Interrupt
+  puts "\nExiting NetCloak..."
+ensure
+  Curses.close_screen if defined?(Curses)
+end
